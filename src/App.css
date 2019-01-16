@@ -1,0 +1,15 @@
+.timer {
+  text-align: center;
+  display: flex;
+}
+h1
+{
+  font-size: 1000%;
+  margin: 0%;
+}
+
+h4
+{
+  font-size: 200%;
+  color: gray;
+}
